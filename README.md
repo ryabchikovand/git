@@ -1,3 +1,4 @@
-My Project
+*My Project
 
-Description
+**Description
+Project made for git learning.
